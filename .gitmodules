@@ -1,0 +1,3 @@
+[submodule "deps/middle"]
+	path = deps/middle
+	url = ../bkm-b-4498659ca7814326bf4db7-nested-submodule-5e0193-middle.git
